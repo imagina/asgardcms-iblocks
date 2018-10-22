@@ -1,0 +1,17 @@
+{
+    "name": "Iblocks",
+    "alias": "iblocks",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Iblocks\\Providers\\IblocksServiceProvider",
+        "Modules\\Iblocks\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        
+    ],
+    "requires": []
+}
